@@ -21,6 +21,9 @@ The dataset has undergone meticulous cleaning and preprocessing to ensure data q
 
 To predict customer churn tendencies, we've developed a sophisticated neural network model. This deep learning approach considers a diverse set of features, including customer account information, demographics, and service usage patterns. By leveraging the power of neural networks, we empower businesses to anticipate and address customer churn risks effectively.
 
+## Tools and Packages:
+This project was implemented in Jupyter Notebook, a popular platform for interactive data analysis. Several essential Python packages were utilized, including Pandas for data manipulation, Matplotlib for data visualization, NumPy for numerical computations, and Scikit-learn and tensorflow for clustering and machine learning tasks.
+
 ## Results and Impact
 
 Our project has yielded remarkable results, enabling businesses to take proactive measures to retain customers. By identifying customers at high risk of churn, companies can devise tailored retention programs, enhance customer satisfaction, and ultimately improve their bottom line. The developed model showcases the potential of data-driven decision-making in customer retention strategies.
